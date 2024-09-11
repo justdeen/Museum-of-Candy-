@@ -1,4 +1,4 @@
-https://just-deen.github.io/museum-of-candy-/ -hosted on github
+https://just-deen.github.io/Museum-of-Candy-/ -hosted on github
 
 # Museum-of-Candy-
 I decided to code alongside my udemy instructor to actualize this mini frontend project. I had to incorporate bootstrap to enable me structure the contents with ease and to allow for responsiveness across multiple screen sizes. Using bootstrap didn't come without its problems as I encountered certain constraints which I managed to overcome by simply employing css specificity. Coding this type of interface from scratch is very much doable but a front-end framework like bootstrap makes the process faster. 
